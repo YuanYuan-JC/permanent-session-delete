@@ -118,7 +118,7 @@ async function loadClient(loadReact) {
   globalThis.window = {
     __ModuleLoader__: {
       load({ id, factory }) {
-        assert.equal(id, '@local/permanent-session-delete')
+        assert.equal(id, 'dsh-permanent-session-delete')
         module = factory(specifier => {
           assert.equal(specifier, 'react')
           return reactModule

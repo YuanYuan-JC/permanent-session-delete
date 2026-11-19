@@ -1,5 +1,5 @@
 {
-  "name": "@local/permanent-session-delete",
+  "name": "dsh-permanent-session-delete",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",

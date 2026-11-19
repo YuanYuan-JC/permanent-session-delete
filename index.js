@@ -5,7 +5,7 @@
  * session-owned log directory, drops the projection-cache checkpoint, and, when
  * the conversation spawned sub-agent sessions, removes those child logs too.
  *
- * @module @local/permanent-session-delete
+ * @module dsh-permanent-session-delete
  */
 
 import { readdir, rmdir, unlink } from 'node:fs/promises'
