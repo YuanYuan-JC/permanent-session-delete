@@ -1,4 +1,4 @@
 # Permanent-delete bundle: one Host row; the Client half ships through `dsh.client`.
 - insert:
     - id: permanent-session-delete
-      name: '@local/permanent-session-delete'
+      name: 'dsh-permanent-session-delete'

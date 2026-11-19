@@ -6,7 +6,7 @@
  */
 
 window.__ModuleLoader__.load({
-  id: '@local/permanent-session-delete',
+  id: 'dsh-permanent-session-delete',
   factory(require) {
     const React = require('react')
     const h = React.createElement
