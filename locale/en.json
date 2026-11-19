@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Permanent delete",
+    "description": "Adds Delete permanently to the sidebar Session menu. After a confirmation dialog it removes the conversation's stored log, projection cache and archive mark for good.",
+    "detail": "docs/DETAIL.md"
+  }
+}

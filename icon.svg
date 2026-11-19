@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Permanent delete">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#1f2937"/>
+  <path d="M26 15h12l2.4 4.2H50v5H14v-5h9.6L26 15Z" fill="#f87171"/>
+  <path d="M17 27h30l-2.6 24.4A4 4 0 0 1 40.4 55H23.6a4 4 0 0 1-4-3.6L17 27Z" fill="#e5e7eb"/>
+  <rect x="25" y="32" width="3.6" height="16" rx="1.8" fill="#1f2937"/>
+  <rect x="30.2" y="32" width="3.6" height="16" rx="1.8" fill="#1f2937"/>
+  <rect x="35.4" y="32" width="3.6" height="16" rx="1.8" fill="#1f2937"/>
+</svg>
